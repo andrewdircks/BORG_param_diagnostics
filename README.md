@@ -15,7 +15,8 @@ mkdir BorgDiatnosticTool_lib
 4. Change the name of the MOEAFramework application to `MOEAFramework-2.13-Demo.jar`.
 5. Run `BorgDiagnosticTool.jar` as an executable.
 
-## Examples
+## Example
+Visually explore various parameterizations and run them with the MOEAFramework diagnostic tool.
 ![Image of application](https://github.com/andrewdircks/Borg_diagnostic_tool/blob/master/examples/visualizations.png)
 
 ## Acknowledgements
