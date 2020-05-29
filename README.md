@@ -16,7 +16,7 @@ mkdir BorgDiatnosticTool_lib
 5. Run `BorgDiagnosticTool.jar` as an executable.
 
 ## Examples
-s
+![Image of application](https://github.com/andrewdircks/Borg_diagnostic_tool/blob/master/examples/visualizations.png)
 
 ## Acknowledgements
 - ***MOEAFramework*** is an open sourced library for developing, testing, and experimenting with multiobjective evolutionary algorithms, created by Dave Hadka. More information can be found [here](http://moeaframework.org). For this plugin, the `diagnostics` package within the MOEAFramework source was altered to support the Borg MOEA and parameter visualizations.
