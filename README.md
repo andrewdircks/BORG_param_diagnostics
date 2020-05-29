@@ -17,6 +17,7 @@ mkdir BorgDiatnosticTool_lib
 
 ## Example
 Visually explore various parameterizations and run them with the MOEAFramework diagnostic tool.
+
 ![Image of application](https://github.com/andrewdircks/Borg_diagnostic_tool/blob/master/examples/visualizations.png)
 
 ## Acknowledgements
