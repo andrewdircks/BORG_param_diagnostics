@@ -20,7 +20,7 @@ s
 
 ## Acknowledgements
 - ***MOEAFramework*** is an open sourced library for developing, testing, and experimenting with multiobjective evolutionary algorithms, created by Dave Hadka. More information can be found [here](http://moeaframework.org). For this plugin, the `diagnostics` package within the MOEAFramework source was altered to support the Borg MOEA and parameter visualizations.
-- The ***Borg MOEA*** is a multiobjective evolutionary algorithm developed by David Hadka and Patrick Reed. Information and access to the private repository can be found [here](http://moeaframework.org). 
+- The ***Borg MOEA*** is a multiobjective evolutionary algorithm developed by David Hadka and Patrick Reed. Information and access to the private repository can be found [here](http://borgmoea.org). 
 
 ## Supporting Resources
 - Information on individual mating and mutation operators, as well as an interactive visualization webpage, can be found [here](https://github.com/andrewdircks/visualize_operators).
