@@ -7,7 +7,7 @@ An MOEAFramework plugin for parameterization visualizations and diagnostics with
 
 ## Installation
 1. Download the release application.
-2. Within the `BorgDiagnosticTool.jar` directory, include a `BorgDiatnosticTool_lib` folder with 
+2. Within the `BorgDiagnosticTool.jar` directory, include a `BorgDiagnosticTool_lib` folder with 
 ```
 mkdir BorgDiatnosticTool_lib
 ```
