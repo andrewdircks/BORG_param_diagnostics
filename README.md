@@ -9,7 +9,7 @@ An MOEAFramework plugin for parameterization visualizations and diagnostics with
 1. Download the release application.
 2. Within the `BorgDiagnosticTool.jar` directory, include a `BorgDiagnosticTool_lib` folder with 
 ```
-mkdir BorgDiatnosticTool_lib
+mkdir BorgDiagnosticTool_lib
 ```
 3. Import the MOEAFramework demo application (with `borg.jar` properly configured and included in the build path) to `BorgDiagnosticTool_lib`.
 4. Change the name of the MOEAFramework application to `MOEAFramework-2.13-Demo.jar`.
